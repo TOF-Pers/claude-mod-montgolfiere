@@ -1,0 +1,5 @@
+{
+  "name": "claude-mod-montgolfiere",
+  "owner": { "name": "TOF-Pers" },
+  "plugins": [{ "name": "montgolfiere-contexte", "source": "./" }]
+}

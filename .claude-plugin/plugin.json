@@ -1,0 +1,8 @@
+{
+  "name": "montgolfiere-contexte",
+  "version": "0.1.0",
+  "description": "Une montgolfière arc-en-ciel en pixel art qui se gonfle à mesure que le contexte de Claude Code se remplit",
+  "author": { "name": "TOF-Pers" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
