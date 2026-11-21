@@ -5,6 +5,10 @@ d'une montgolfière arc-en-ciel en pixel art, façon Minecraft. Au début, on ne
 nacelle ; le ballon se gonfle au fur et à mesure que le contexte se remplit, jusqu'à
 menacer d'éclater juste avant le compactage.
 
+![Les 6 étapes de la montgolfière, de 0 % à 95 % de contexte](docs/etapes.png)
+
+*De 0 % à 95 % de contexte : la nacelle seule, puis le ballon qui se gonfle jusqu'à remplir sa silhouette.*
+
 ## Ce que fait le mod
 
 - **Une fenêtre dédiée** avec la montgolfière, le pourcentage de contexte utilisé, les tokens
