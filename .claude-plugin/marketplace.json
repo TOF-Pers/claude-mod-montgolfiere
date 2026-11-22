@@ -1,5 +1,6 @@
 {
   "name": "claude-mod-montgolfiere",
   "owner": { "name": "TOF-Pers" },
+  "description": "La montgolfière du contexte : un mod Claude Code en pixel art qui montre le remplissage du contexte",
   "plugins": [{ "name": "montgolfiere-contexte", "source": "./" }]
 }
